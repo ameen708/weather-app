@@ -54,3 +54,8 @@ button{
     color: white;
     padding: 8px;
 }
+
+#message-about{
+    text-align: center;
+    padding-bottom: 8px;
+}
